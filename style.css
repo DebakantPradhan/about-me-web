@@ -60,13 +60,13 @@ header{
 }
 .message h2{
     margin: 15px;
-    color: rgb(255 255 255);
+    color: rgb(255, 255, 255);
  ;
     font-size: 30px;
     background-size:cover;
 }
 .message p{
-    color: rgb(255 255 255);
+    color: rgb(255, 255, 255);
     font-size: 18px;
     width: 80%;
     margin: 15px;
