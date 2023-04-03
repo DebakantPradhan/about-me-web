@@ -71,6 +71,8 @@ header{
     width: 80%;
     margin: 15px;
     margin-left: 4vw;
+    font-family: serif;
+    font-weight: normal;
 }
 .message img{
     width: 70%;
