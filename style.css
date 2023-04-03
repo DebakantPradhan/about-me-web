@@ -61,7 +61,7 @@ header{
 .message h2{
     margin: 15px;
     color: rgb(255, 255, 255);
- ;
+    margin:30px;
     font-size: 30px;
     background-size:cover;
     font-family: sans-serif ;
