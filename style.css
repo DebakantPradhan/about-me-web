@@ -64,7 +64,7 @@ header{
  ;
     font-size: 30px;
     background-size:cover;
-    font family: sans-serif;
+    font-family: sans-serif ;
 }
 .message p{
     color: rgb(255, 255, 255);
@@ -73,7 +73,7 @@ header{
     margin: 15px;
     margin-left: 4vw;
     font-family: serif;
-    font-weight: normal;
+    font-weight: normal ;
 }
 .message img{
     width: 70%;
