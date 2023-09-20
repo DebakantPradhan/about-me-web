@@ -2,7 +2,6 @@
     margin: 0px;
     padding: 0px;
    
-    font-family: sans-serif;
 }
 body{
     background-image: url("arora.jpg");
@@ -66,6 +65,14 @@ header{
     background-size:cover;
     font-family: sans-serif ;
 }
+.message h3{
+    margin: 15px;
+    color: rgb(255, 255, 255);
+    margin:30px;
+    font-size: 30px;
+    background-size:cover;
+    font-family: sans-serif ;
+}
 .message p{
     color: rgb(255, 255, 255);
     font-size: 20px;
@@ -77,6 +84,9 @@ header{
 }
 .message img{
     width: 70%;
+}
+.message em{
+    font-weight: normal;
 }
 .links{
     display: flex;
